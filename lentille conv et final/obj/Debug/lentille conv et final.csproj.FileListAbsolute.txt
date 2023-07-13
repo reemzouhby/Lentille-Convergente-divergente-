@@ -1,0 +1,13 @@
+C:\Users\hcc\source\repos\lentille conv et final\lentille conv et final\bin\Debug\lentille conv et final.exe.config
+C:\Users\hcc\source\repos\lentille conv et final\lentille conv et final\bin\Debug\lentille conv et final.exe
+C:\Users\hcc\source\repos\lentille conv et final\lentille conv et final\bin\Debug\lentille conv et final.pdb
+C:\Users\hcc\source\repos\lentille conv et final\lentille conv et final\obj\Debug\lentille conv et final.csproj.AssemblyReference.cache
+C:\Users\hcc\source\repos\lentille conv et final\lentille conv et final\obj\Debug\lentille conv et final.csproj.SuggestedBindingRedirects.cache
+C:\Users\hcc\source\repos\lentille conv et final\lentille conv et final\obj\Debug\lentille_conv_et_final.Form1.resources
+C:\Users\hcc\source\repos\lentille conv et final\lentille conv et final\obj\Debug\lentille_conv_et_final.Properties.Resources.resources
+C:\Users\hcc\source\repos\lentille conv et final\lentille conv et final\obj\Debug\lentille conv et final.csproj.GenerateResource.cache
+C:\Users\hcc\source\repos\lentille conv et final\lentille conv et final\obj\Debug\lentille conv et final.csproj.CoreCompileInputs.cache
+C:\Users\hcc\source\repos\lentille conv et final\lentille conv et final\obj\Debug\lentille conv et final.exe
+C:\Users\hcc\source\repos\lentille conv et final\lentille conv et final\obj\Debug\lentille conv et final.pdb
+C:\Users\hcc\source\repos\lentille conv et final\lentille conv et final\obj\Debug\lentille_conv_et_final.Form2.resources
+C:\Users\hcc\source\repos\lentille conv et final\lentille conv et final\obj\Debug\lentille_conv_et_final.Form3.resources
